@@ -2,6 +2,13 @@
 
 A Java-based **Space Invaders** style game built as a project to practice object-oriented programming and graphics.
 
+
+
+![Spaceinvadersv2 12025-08-0701-02-31-Trim-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2578c39e-f71f-4f48-8620-61f833eec2ad)
+
+
+![Spaceinvadersv2 12025-08-0701-09-06-Trim-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/933e5e17-4cbc-4bcf-8f0f-3f36059870cc)
+
 ---
 
 ## 🎮 Project Overview
@@ -51,8 +58,6 @@ Run the main class to start the game:
 java finalscsc142.SpaceInvader
 
 ---
-
-<img width="1920" height="1040" alt="예방접종도우미 _ 예방접종 관리 _ 본인 예방접종 관리 _ 본인 예방접종 내역조회 - Google Chrome 6_17_2025 5_34_08 PM" src="https://github.com/user-attachments/assets/bb8a825f-f569-4099-8ed7-9d01b95e6786" />
 
 ## 🤝 Contact
 

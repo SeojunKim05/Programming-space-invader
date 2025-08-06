@@ -1,10 +1,10 @@
-# Space Invaders Java Project
+# 🚀 Space Invaders Java Project 👾
 
 A Java-based **Space Invaders** style game built as a project to practice object-oriented programming and graphics.
 
 ---
 
-## Project Overview
+## 🎮 Project Overview
 
 This project implements a classic 2D space shooter game where the player controls a spaceship to defend against waves of alien enemies. Features include:
 
@@ -21,7 +21,7 @@ The project uses the **UWCSE Graphics library** for rendering shapes and handlin
 
 ---
 
-## Classes and Files
+## 📂 Classes and Files
 
 | File Name         | Description                                                      |
 |-------------------|------------------------------------------------------------------|
@@ -34,7 +34,7 @@ The project uses the **UWCSE Graphics library** for rendering shapes and handlin
 
 ---
 
-## How to Run
+## 🚀 How to Run
 
 1. Make sure you have **Java 8+** installed.
 
@@ -52,11 +52,13 @@ java finalscsc142.SpaceInvader
 
 ---
 
+<img width="1920" height="1040" alt="예방접종도우미 _ 예방접종 관리 _ 본인 예방접종 관리 _ 본인 예방접종 내역조회 - Google Chrome 6_17_2025 5_34_08 PM" src="https://github.com/user-attachments/assets/bb8a825f-f569-4099-8ed7-9d01b95e6786" />
+
 ## 🤝 Contact
 
 Got feedback or want to collaborate?
 
-📬 [Open an issue](https://github.com/SeojunKim05/PracticeProjects/issues)  
+📬 [Open an issue](https://github.com/SeojunKim05/Programming-space-invader/issues)  
 💼 [LinkedIn](https://www.linkedin.com/in/seojun-kim-089b7b339)  
 📫 Email: kseojun05@gmail.com
 
